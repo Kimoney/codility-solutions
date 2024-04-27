@@ -1,1 +1,1 @@
-# codility-solutions
+# Codility Solutions
